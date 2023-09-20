@@ -129,7 +129,7 @@ class _HomePageState extends State<HomePage> {
                     controller: _age,
                     keyboardType: TextInputType.number,
                     decoration: InputDecoration(
-                        labelText: 'Enter Your Age',
+                        labelText: 'Enter Your git',
                         enabledBorder: OutlineInputBorder(
                             borderRadius: BorderRadius.circular(20),
                             borderSide:
@@ -204,7 +204,6 @@ class _HomePageState extends State<HomePage> {
                                   )));
                     },
                     child: Text("Google Map View")),
-                    
               ],
             ),
           ),
